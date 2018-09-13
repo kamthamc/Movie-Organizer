@@ -37,7 +37,7 @@
         "postcss-loader": "^2.0.8",
         "postcss-smart-import": "^0.7.5",
         "precss": "^2.0.0",
-        "react-hot-loader": "^3.1.2",
+        "react-hot-loader": "^4.3.7",
         "react-test-renderer": "^16.1.1",
         "sass-loader": "^6.0.3",
         "style-loader": "^0.20.2",
